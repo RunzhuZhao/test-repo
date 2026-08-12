@@ -4,3 +4,4 @@
 # dev -01
 # dev -0811 - 02
 # dev -0812  - 01 wednesday
+# dev -0812 02 git commit -s -m
